@@ -1,0 +1,10 @@
+@tailwind components;
+@tailwind utilities;
+
+@import "./preflight";
+
+body {
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0.05em;
+}
