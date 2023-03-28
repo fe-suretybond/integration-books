@@ -4,7 +4,7 @@ Server:
 
 Database:
   ServerType: postgres
-  DriverSource: host=db.vjlkmagqczfwmvpablpo.supabase.co port=5432 user=postgres password=SPbFuYLz42MpP3Zn dbname=postgres sslmode=disable
+  DriverSource: host=db.vjpgdoelfnmgwmpdokkn.supabase.co port=5432 user=postgres password=SuretyBond2023! dbname=Go_Example sslmode=disable
   MaxOpenConns: 5
   MaxIdleConns: 5
   ConnMaxLifetime: 30
